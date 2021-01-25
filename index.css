@@ -17,8 +17,8 @@
 :root {
 	background-color: white; 
 	color: white;
-	--main-color: #577590; /*azul Plan*/
-	--main-bg_color: #F0F9F7 ;/*Cream mint*/
+	--main-color: #324353; 
+	--main-bg_color: #ffffff ;
 
 }
 
@@ -173,7 +173,7 @@ header p {
 }
 
 .btn_shop {
-	background-color: #43aa8b;
+	background-color: #1D493C;
 	border-radius: 4px 50px 50px 4px;
 	padding: 18px;
 	font-size: 20px;
