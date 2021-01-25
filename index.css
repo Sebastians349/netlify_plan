@@ -70,7 +70,8 @@ header p {
 
 #logo {
    clear: both;
-   width: 25%;
+   width: 200px;
+   height: 46px;
    float: left;
    margin-top: 0.1em;
    margin-left: 0.5em;
@@ -268,7 +269,7 @@ header p {
 
 #logo {
    clear: both;
-   width: 27%;
+   width: 180px;
    float: left;
    margin-left: 0.5em;
    filter: invert(1);
@@ -411,7 +412,7 @@ header p {
 
 
 #logo {
-   width: 50%;
+   width: 180px;
 	margin-top: 1.5%;
    
 }
@@ -486,7 +487,7 @@ header p {
 #redes_small img {
 	width: 50%;
 	filter: invert(1);
-	margin-bottom: .5em;
+	margin-top: 15px;
 
 }
 
