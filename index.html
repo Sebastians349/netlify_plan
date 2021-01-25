@@ -10,6 +10,7 @@
     <meta name="description"
         content="PLAN! te ayuda a visualizar las etapas de tus proyectos con piezas 100% imantadas y reutilizables.">
     <link rel="stylesheet" type="text/css" href="/index.css" />
+    <link rel="preload" href="fonts/fontawesome-webfont.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="icon" type="image/png" href="images/favicon-pistacho.png" sizes="64x64">
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -26,7 +27,7 @@
         !function (f, b, e, v, n, t, s) {
             if (f.fbq) return; n = f.fbq = function () {
                 n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
             };
             if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
             n.queue = []; t = b.createElement(e); t.async = !0;
